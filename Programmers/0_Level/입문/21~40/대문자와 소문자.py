@@ -5,5 +5,4 @@ def solution(my_string):
             answer+=i.lower()
         else:
             answer+=i.upper()
-            
     return answer
