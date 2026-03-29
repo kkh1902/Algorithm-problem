@@ -16,6 +16,7 @@
 - diag1[i] : (row + col) 대각선 여부
 - diag2[i] : (row - col + N - 1) 대각선 여부
 - cnt : 가능한 경우의 수
+
 """
 
 import sys
